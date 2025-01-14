@@ -7,7 +7,7 @@ Controlling Yaskawa Robot via Moveit and MotoROS
 
 # ROS
 
-![ros](resource/ros.jpg)
+![ros](resource/ros.png)
 
 # Hello world 
 
